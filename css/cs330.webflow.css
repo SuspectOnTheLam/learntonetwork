@@ -77,6 +77,7 @@
 }
 
 .material-block.article.end {
+  padding-right: 70px;
   padding-bottom: 70px;
 }
 
@@ -128,17 +129,17 @@
   background-color: #50c7ff;
 }
 
+.next-button.end {
+  display: block;
+  float: none;
+}
+
 .block-content {
   margin-right: 40px;
 }
 
 .footer {
   height: 100px;
-}
-
-.heading {
-  font-weight: 500;
-  text-align: left;
 }
 
 .article-paragraph {
